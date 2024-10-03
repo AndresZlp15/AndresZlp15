@@ -28,7 +28,7 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me gusta 
 
 ## 🎧 Mi música
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312v3k23ikgrrj3jz6jdr7h4swfe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](music@sandreszlp15.com)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312v3k23ikgrrj3jz6jdr7h4swfe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](spotify.com)
 
 ---
 
