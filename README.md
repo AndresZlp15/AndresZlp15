@@ -11,7 +11,7 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me gusta 
 ## 🔧 Tecnologías y Herramientas
 
 - **Lenguajes**: Java, JavaScript, PHP, Python, Go
-- **Frameworks**: Laravel, React, Spring, algunos de Python
+- **Frameworks**: Laravel, React, Spring, Flash, Django, Node.js
 - **Herramientas**: Git, GitHub, Visual Studio Code, Docker, Postman, JIRA, Trello, Jenkins, Firebase
 
 ## 🌍 Intereses
