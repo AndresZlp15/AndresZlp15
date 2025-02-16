@@ -5,7 +5,7 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me gusta 
 ## 🚀 Sobre mí
 
 - 🌱 Actualmente estoy aprendiendo sobre **desarrollo de aplicaciones Android con Kotlin**.
-- 💬 Pregúntame sobre **Java, desarrollo web, proyectos de Discord, bases de datos, API REST y integración continua**.
+- 💬 Pregúntame sobre **Java, desarrollo web, proyectos de Discord, bases de datos, API REST e integración continua**.
 - 📫 Puedes contactarme en: [me@andreszlp15.com](mailto:me@andreszlp15.com).
 
 ## 🔧 Tecnologías y Herramientas
