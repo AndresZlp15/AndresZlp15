@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me gusta 
 
 - 🌱 Actualmente estoy aprendiendo sobre **desarrollo de aplicaciones Android con Kotlin**.
 - 💬 Pregúntame sobre **Java, desarrollo web, proyectos de Discord, bases de datos, API REST e integración continua**.
-- 📫 Puedes contactarme en: [me@andreszlp15.com](mailto:me@andreszlp15.com).
+- 📫 Puedes contactarme en: [me@andreszlp15.com](mailto:andres@shopzlp.com).
 
 ## 🔧 Tecnologías y Herramientas
 
@@ -28,7 +28,7 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me gusta 
 
 ## 🎧 Mi música
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dn3twwnfhu3kigwryr2mk767tm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify.com)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmdxggpbqcwwvxa3fougxcfziy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmdxggpbqcwwvxa3fougxcfziy&redirect=true)
 ---
 
 ¡Gracias por visitar mi perfil! Si deseas colaborar en algún proyecto o simplemente charlar sobre tecnología, no dudes en contactarme.
