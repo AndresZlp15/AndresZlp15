@@ -6,11 +6,11 @@
   🚀 <b>Desarrollador Backend & Full-Stack</b> | 💻 <b>Construyendo APIs REST & Aplicaciones Móviles</b>
 </p>
 
-[![Frase Dev del Día](https://github-music.shopzlp.com/api/quote?theme=synthwave)]
+[![Frase Dev del Día](https://github-music.shopzlp.com/api/quote?theme=synthwave&v=2)]
 
 <br/>
 
-[![Snake Arcade](https://github-music.shopzlp.com/api/snake?theme=cyberpunk&text=ANDRES)]
+[![Snake Arcade](https://github-music.shopzlp.com/api/snake?theme=cyberpunk&text=Andres+Hernandez&v=2)]
 
 <p align="center">
   <a href="https://shopzlp.com" target="_blank">🌐 Sitio Web / Portafolio</a> •
