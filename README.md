@@ -28,7 +28,7 @@ Soy un desarrollador apasionado por la programación y la tecnología. Me gusta 
 
 ## 🎧 Mi música
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmdxggpbqcwwvxa3fougxcfziy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmdxggpbqcwwvxa3fougxcfziy&redirect=true)
+[![Now Playing](https://github-music.shopzlp.com/api/music)](https://github.com/AndresZlp15)
 ---
 
 ¡Gracias por visitar mi perfil! Si deseas colaborar en algún proyecto o simplemente charlar sobre tecnología, no dudes en contactarme.
