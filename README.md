@@ -5,12 +5,8 @@
 <p align="center">
   🚀 <b>Desarrollador Backend & Full-Stack</b> | 💻 <b>Construyendo APIs REST & Aplicaciones Móviles</b>
 </p>
-
-<a href="#quote"><img src="https://github-music.shopzlp.com/api/quote?theme=synthwave&v=2" alt="Frase Dev del Día" /></a>
-
-<br/>
-
 <a href="#snake"><img src="https://github-music.shopzlp.com/api/snake?theme=cyberpunk&text=Andres+Hernandez&v=2" alt="Snake Arcade" /></a>
+
 
 <p align="center">
   <a href="https://shopzlp.com" target="_blank">🌐 Sitio Web / Portafolio</a> •
@@ -21,7 +17,7 @@
 
 ---
 
-## 💻 Vista General del Sistema (Terminal)
+## 💻 Vista General del Sistema (Perfil)
 
 ```bash
 andres@vps-profile:~$ neofetch --user AndresZlp15
@@ -98,6 +94,9 @@ andres@vps-profile:~$ neofetch --user AndresZlp15
 - 🤝 Contribuir activamente a proyectos de **Código Abierto (Open Source)**.
 
 ---
+<div align="center">
+<a href="#quote"><img src="https://github-music.shopzlp.com/api/quote?theme=synthwave&v=2" alt="Frase Dev del Día" /></a>
+</div>
 
 <div align="center">
   <sub>¡Gracias por visitar mi perfil! Si deseas colaborar en un proyecto o charlar sobre tecnología, siéntete libre de escribirme.</sub>
