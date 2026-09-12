@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shopzlp.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Portafolio-00f2fe?style=for-the-badge&logoColor=white" alt="Website" /></a>
+  <a href="https://andres.shopzlp.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Portafolio-00f2fe?style=for-the-badge&logoColor=white" alt="Website" /></a>
   <a href="mailto:andres@shopzlp.com"><img src="https://img.shields.io/badge/📫_Email-andres@shopzlp.com-9d4edd?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AndresZlp15"><img src="https://img.shields.io/badge/GitHub-@AndresZlp15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/📍_Colombia-🇨🇴-ff4b4b?style=for-the-badge" alt="Colombia" />
@@ -37,7 +37,7 @@
     "🗄️ Optimización de BD: MySQL, PostgreSQL, MongoDB",
     "🔄 CI/CD Pipelines, Docker & Linux VPS"
   ],
-  "contacto" : { "email": "andres@shopzlp.com", "web": "https://shopzlp.com" }
+  "contacto" : { "email": "andres@shopzlp.com", "web": "https://andres.shopzlp.com" }
 }
 ```
 
